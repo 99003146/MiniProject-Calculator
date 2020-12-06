@@ -15,5 +15,12 @@ double mtokm(double);
 double kgtog(double);
 double gtokg(double);
 
+double cosine(double);
+double sine(double);
+double Tan(double);
+double Cot(double);
+double Sec(double);
+double Cosec(double m);
+
 
 #endif
