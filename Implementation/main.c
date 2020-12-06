@@ -8,7 +8,7 @@ int choice;
 int choice2;
 int choice3;
 int choice4;
-printf("What do you want to do?\n1-ARITHMATIC\n2-CONVERSIONS\n3-TRIGONOMETRIC\n");
+printf("What do you want to do?\n1-ARITHMETIC\n2-CONVERSIONS\n3-TRIGONOMETRIC\n");
 printf("Enter your choice ");
 scanf("%d", &choice);
 system("cls");
